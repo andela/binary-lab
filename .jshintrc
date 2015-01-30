@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "eqeqeq": true,
+  "globals": {
+
+  },
+  "camelcase": true,
+  "immed": true,
+  "strict": true,
+  "undef": true,
+  "browser": true
+}
