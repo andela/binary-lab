@@ -1,0 +1,9 @@
+# OSX Stuff
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Node modules
+node_modules
