@@ -9,7 +9,7 @@
     "angular": true,
     "AndeLabs": true,
     "Firebase": true,
-    "accumulate": true
+    "Binary": true
   },
   "camelcase": true,
   "immed": true,
