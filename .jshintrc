@@ -2,7 +2,14 @@
   "node": true,
   "eqeqeq": true,
   "globals": {
-
+    "describe": true,
+    "it": true,
+    "xit": true,
+    "expect": true,
+    "angular": true,
+    "AndeLabs": true,
+    "Firebase": true,
+    "accumulate": true
   },
   "camelcase": true,
   "immed": true,
